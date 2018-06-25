@@ -1,0 +1,4 @@
+#Wed Jun 20 16:51:56 EAT 2018
+base.0=/home/rakoi/Documents/flutter/flutter/examples/catalog/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

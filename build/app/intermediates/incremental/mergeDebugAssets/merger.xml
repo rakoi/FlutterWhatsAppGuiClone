@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/rakoi/Documents/flutter/flutter/examples/catalog/android/app/src/main/assets"/><source path="/home/rakoi/Documents/flutter/flutter/examples/catalog/build/app/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/rakoi/Documents/flutter/flutter/examples/catalog/android/app/src/debug/assets"/></dataSet></merger>
